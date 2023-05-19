@@ -1,0 +1,36 @@
+.container{
+    border-radius: 2%;
+    background-color: rgb(146, 77, 146);
+   
+}
+.container> div{
+    color: rgb(29, 155, 92);
+    border-bottom: 1px solid white;
+}
+.container> hr{
+    color: white;
+}
+#containerDerecha{
+    border-left: 1px solid white;
+
+}
+.contenedorImagenesConveracion{
+    width: 10%;
+    border-radius: 100%;
+}
+#imgChatIzquierda{
+    width: 200%;
+    border-radius: 10px;
+}
+#imgChatDerecha{
+    width: 80%;
+    border-radius: 100%;
+}
+#imgPrincChatDerecha{
+    width: 80%;
+    border-radius: 50%;
+}
+
+.fecha{
+    font-size: 5px;
+}
